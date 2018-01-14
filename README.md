@@ -2,7 +2,9 @@
 
 My first Android application. It displays business information for a fictional airconditioning company. Here's where you started, future me!
 
-<center>![App preview image.](github/preview.png)</center>
+<center>
+<img src="github/preview.png" height="300px">
+</center>
 
 <center>*In all its glory...*</center>
 
