@@ -1,12 +1,15 @@
 # JED Airconditioning
 
-My first Android application. It displays business information for a fictional airconditioning company. Here's where you started, future me!
+My first Android application. It displays business information for a fictional airconditioning company. ***Here's where you started, future me!***
 
-<center>
-<img src="github/preview.png" height="300px">
-</center>
 
-<center>*In all its glory...*</center>
+<div align="center">
+    <img src="github/preview.png" height="300px">
+</div>
+
+<div align="center">
+    <i>In all its glory...</i>
+</div>
 
 ## License
 
